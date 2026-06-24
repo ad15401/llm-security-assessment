@@ -1,0 +1,3 @@
+*.html linguist-documentation
+*.jsonl linguist-generated
+*.csv linguist-generated
